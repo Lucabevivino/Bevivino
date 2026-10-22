@@ -1,0 +1,18 @@
+# Personal working notes (not part of the deliverable)
+PROJECT_NOTES.md
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.bbl
+*.blg
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+
+# macOS
+.DS_Store
